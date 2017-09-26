@@ -16,7 +16,6 @@ int main()
 	
 	while(a[i]!='\0')
 	{
-		//printf("%s\n",a );
 		if(a[i]>='a'&&a[i]<='z')
 		{
 			printf("%c",a[i] );
